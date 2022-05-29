@@ -4,12 +4,11 @@
 
 # Site
 title: Yichong Liu的博客
-subtitle: ''
-description: 'Yichong Liu's personal blog'
-keywords:
+subtitle:
+description: Yichong Liu's personal blog
 author: Yichong Liu
-language: ch
-timezone: EST
+language: en
+timezone: America/New_York
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
